@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.qv.beauty</groupId>
   <artifactId>QvBeauty</artifactId>
-  <version>1.2.20</version>
+  <version>1.2.21</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
