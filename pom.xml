@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.qv.beauty</groupId>
   <artifactId>QvBeauty</artifactId>
-  <version>1.2.21</version>
+  <version>1.3.0</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -40,7 +40,7 @@
     <dependency>
       <groupId>com.github.quickvo</groupId>
       <artifactId>QuickPixel</artifactId>
-      <version>1.3.9</version>
+      <version>1.3.10</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
